@@ -1,2 +1,2 @@
 # animated-menu
-A small project.
+A small project. Animated menu with css and javascript.
